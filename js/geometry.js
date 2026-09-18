@@ -1,0 +1,1 @@
+function clone(o){return JSON.parse(JSON.stringify(o))}function polygonBounds(a){if(!a?.length)return{x:0,y:0,w:0,h:0};let xs=a.map(p=>p.x),ys=a.map(p=>p.y),x=Math.min(...xs),y=Math.min(...ys);return{x,y,w:Math.max(...xs)-x,h:Math.max(...ys)-y} }

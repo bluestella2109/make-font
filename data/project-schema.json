@@ -1,0 +1,4 @@
+{
+  "schemaVersion": "3.0",
+  "features": ["glyphs","metrics","kerning","layers","guides","components","ligatures","opentype","axes","backups","history"]
+}

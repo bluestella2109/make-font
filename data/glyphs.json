@@ -1,5 +1,6 @@
 {
-  "latin": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "lowercase": "abcdefghijklmnopqrstuvwxyz",
   "digits": "0123456789",
-  "punctuation": "!\"#$%&'()*+,-./:;<=>?@[\\\\]^_`{|}~"
+  "punctuation": ".,!?;:'\"-+*/=()[]{}@#$%&"
 }

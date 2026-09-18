@@ -1,0 +1,9 @@
+{
+  "name": "My Font",
+  "family": "My Font",
+  "style": "Regular",
+  "version": "1.0.0",
+  "unitsPerEm": 1000,
+  "ascender": 800,
+  "descender": -200
+}
